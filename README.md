@@ -1,5 +1,4 @@
 # GuessTheNumber-Multiplayer
-It's multiplayer game on console. 
+It's multiplayer game in command prompt window. 
 Play it for free. 
-If there's any mistake let me know.
-Any type of unnecessary grammar changes will not be included.
+If there are any bugs let me know.
